@@ -143,9 +143,9 @@ nav,
 }
 
 .side-nav .userView .avatar {
-	margin-bottom: 15px;
-	width: 64px;
-	height: 64px;
+	margin-bottom: 10px;
+	width: 100px;
+	height: 100px;
 }
 
 .side-nav .userView .email {
@@ -162,7 +162,7 @@ nav,
 	padding: 0;
 	display: inline-block;
 	vertical-align: top;
-	width: 16px;
+	width: 10px;
 	height: 20px;
 	font-size: 0;
 	color: #ffffff;
@@ -170,7 +170,7 @@ nav,
 }
 
 .side-nav .social .ion {
-	font-size: 16px;
+	font-size: 20px;
 }
 
 .side-nav li.active a {
@@ -192,6 +192,7 @@ nav,
 .material-icons {
 	position: relative;
 	vertical-align: right;
+	scale: 1;
 }
 
 .tag {
