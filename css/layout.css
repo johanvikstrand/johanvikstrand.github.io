@@ -191,7 +191,7 @@ nav,
 /* Elements */
 .material-icons {
 	position: relative;
-	vertical-align: middle;
+	vertical-align: right;
 }
 
 .tag {
